@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+<!--	<script directory="gui/session/activepause.js"/> -->
+
+	<!-- Pause: It adds the functionality of an active pause. Now you can give orders and make actions during this pause. -->
+	<object hotkey="activepause">
+		<action on="Press" file="gui/session/activepause.js"></action>
+		<!-- <action off="Press">Engine.SetSimRate(1);</action> -->
+	</object>
+</objects>
+
