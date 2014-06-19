@@ -11,8 +11,9 @@ If you are on a Windows, it should probably be `C:\Documents and Settings\Severu
 
 You can install it by several means:
 ### Separate mod
-1) Clone this repository inside your `mod/` directory.
-2) Download the ZIP file of this repository, place it in the `mod/` directory, and rename it `activepause.zip`
+Several ways:
+* Clone this repository inside your `mod/` directory.
+* Download the ZIP file of this repository, place it in the `mod/` directory, and rename it `activepause.zip`.
 
 Whenever you'll start the game, you may pass the option `-mod=activepause` for 0ad / pyrogenesis to take that into account.
 ### In the official mod
