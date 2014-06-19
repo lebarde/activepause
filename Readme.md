@@ -2,7 +2,7 @@
 This is a 0ad mod that gives the `activepause` hotkey. This gives a new Pause method that permits to play during the pause (e.g. give orders to units, plan new constructions, attack, and so on).
 
 ## Installing
-If you don't know how to install a mod, please refer **[the official wifi](http://trac.wildfiregames.com/wiki/GameDataPaths)**.
+If you don't know how to install a mod, please refer **[the official wiki](http://trac.wildfiregames.com/wiki/GameDataPaths)**.
 If you are on a Linux box, you probably have these two `mod/` directories:
 - `~/.local/share/0ad/mods/` (personal mods);
 - `/usr/share/games/0ad/mods` (root mods. Checked on a Debian system).
